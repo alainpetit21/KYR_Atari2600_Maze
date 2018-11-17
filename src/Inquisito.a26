@@ -1,0 +1,302 @@
+PFData0  ;IN       4 5 6 7
+       .byte $00	;    PADDING
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $50	;    X X 
+       .byte $50	;    X X   
+       .byte $50	;    X X
+       .byte $D0	;    X XX
+       .byte $50	;    X X 
+       .byte $00	;        
+PFData1  ;NQU      7 6 5 4 3 2 1 0
+       .byte $00	;    PADDING       
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $08 	;   X    
+       .byte $5D	;X XXX X 
+       .byte $D5	;X X X XX   
+       .byte $D5	;X X X XX
+       .byte $55	;X X X X 
+       .byte $5D	;X XXX X 
+       .byte $00	;        
+PFData2  ;UIS      0 1 2 3 4 5 6 7
+       .byte $00	;    PADDING        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00	;
+       .byte $EB	;XX X XXX
+       .byte $8A	; X X   X    
+       .byte $6A	; X X XX 
+       .byte $2A	; X X X  
+       .byte $CA	; X X  XX
+       .byte $00	;        
+PFData3  ;IT      4 5 6 7
+       .byte $00	;    PADDING       
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+       .byte $F0	;    XXXX
+       .byte $00	;
+       .byte $20	;     X  
+       .byte $20	;     X    
+       .byte $20	;     X 
+       .byte $20	;     X  
+       .byte $A0	;     X X
+       .byte $00	;        
+PFData4  ;TO!      7 6 5 4 3 2 1 0
+       .byte $00	;    PADDING        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+       .byte $FF	;XXXXXXXX
+       .byte $00 	;        
+       .byte $9D	;X XXX  X
+       .byte $94	;  X X  X
+       .byte $95	;X X X  X
+       .byte $95	;X X X  X
+       .byte $DD	;X XXX XX
+       .byte $00	;        
+PFData5  ;        0 1 2 3 4 5 6 7
+       .byte $Fe	;    PADDING        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $Fe	;
+       .byte $Fe	;XX X XXX
+       .byte $Fe	; X X   X    
+       .byte $Fe	; X X XX 
+       .byte $Fe	; X X X  
+       .byte $Fe	; X X  XX
+       .byte $Fe	;        
+       .byte $Fe	;XXXXXXXX
+       .byte $00	;        

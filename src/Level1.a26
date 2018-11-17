@@ -1,0 +1,300 @@
+LVLX_Data0
+	.byte $0	;        
+	.byte $F0	;    XXXX
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $50	;    X X 
+	.byte $D0	;    X XX
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $70	;    XXX 
+	.byte $10	;    X   
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $70	;    XXX 
+	.byte $10	;    X   
+	.byte $50	;    X X 
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $70	;    XXX 
+	.byte $10	;    X   
+	.byte $D0	;    X XX
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $0	;        
+	.byte $C0	;      XX
+	.byte $0	;        
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $70	;    XXX 
+	.byte $D0	;    X XX
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $10	;    X   
+	.byte $D0	;    X XX
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $50	;    X X 
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $F0	;    XXXX
+LVLX_Data1
+	.byte $0	;        
+	.byte $FF	;XXXXXXXX
+	.byte $2	; X      
+	.byte $F7	;XXX XXXX
+	.byte $81	;X      X
+	.byte $FD	;X XXXXXX
+	.byte $9	;X  X    
+	.byte $EB	;XX X XXX
+	.byte $2A	; X X X  
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $2A	; X X X  
+	.byte $EA	; X X XXX
+	.byte $8A	; X X   X
+	.byte $BA	; X XXX X
+	.byte $A2	; X   X X
+	.byte $BE	; XXXXX X
+	.byte $90	;    X  X
+	.byte $DB	;XX XX XX
+	.byte $4A	; X X  X 
+	.byte $EB	;XX X XXX
+	.byte $88	;   X   X
+	.byte $BF	;XXXXXX X
+	.byte $81	;X      X
+	.byte $BF	;XXXXXX X
+	.byte $31	;X   XX  
+	.byte $E4	;  X  XXX
+	.byte $8E	; XXX   X
+	.byte $A4	;  X  X X
+	.byte $3D	;X XXXX  
+	.byte $A5	;X X  X X
+	.byte $8D	;X XX   X
+	.byte $28	;   X X  
+	.byte $EB	;XX X XXX
+	.byte $2A	; X X X  
+	.byte $AA	; X X X X
+	.byte $AB	;XX X X X
+	.byte $AA	; X X X X
+	.byte $88	;   X   X
+	.byte $FF	;XXXXXXXX
+	.byte $0	;        
+	.byte $FE	; XXXXXXX
+	.byte $82	; X     X
+	.byte $BA	; X XXX X
+	.byte $AA	; X X X X
+	.byte $A	; X X    
+	.byte $FA	; X XXXXX
+	.byte $2	; X      
+	.byte $FF	;XXXXXXXX
+LVLX_Data2
+	.byte $0	;        
+	.byte $FF	;XXXXXXXX
+	.byte $0	;        
+	.byte $FE	; XXXXXXX
+	.byte $6	; XX     
+	.byte $F4	;  X XXXX
+	.byte $86	; XX    X
+	.byte $BC	;  XXXX X
+	.byte $86	; XX    X
+	.byte $FF	;XXXXXXXX
+	.byte $11	;X   X   
+	.byte $D5	;X X X XX
+	.byte $D5	;X X X XX
+	.byte $45	;X X   X 
+	.byte $5D	;X XXX X 
+	.byte $49	;X  X  X 
+	.byte $5B	;XX XX X 
+	.byte $12	; X  X   
+	.byte $B6	; XX XX X
+	.byte $A0	;     X X
+	.byte $AE	; XXX X X
+	.byte $AA	; X X X X
+	.byte $A2	; X   X X
+	.byte $BE	; XXXXX X
+	.byte $90	;    X  X
+	.byte $F5	;X X XXXX
+	.byte $85	;X X    X
+	.byte $3D	;X XXXX  
+	.byte $E1	;X    XXX
+	.byte $2F	;XXXX X  
+	.byte $88	;   X   X
+	.byte $2A	; X X X  
+	.byte $6A	; X X XX 
+	.byte $4B	;XX X  X 
+	.byte $6B	;XX X XX 
+	.byte $48	;   X  X 
+	.byte $DF	;XXXXX XX
+	.byte $50	;    X X 
+	.byte $17	;XXX X   
+	.byte $F1	;X   XXXX
+	.byte $1D	;X XXX   
+	.byte $F5	;X X XXXX
+	.byte $1	;X       
+	.byte $FF	;XXXXXXXX
+	.byte $11	;X   X   
+	.byte $D5	;X X X XX
+	.byte $D5	;X X X XX
+	.byte $44	;  X   X 
+	.byte $FF	;XXXXXXXX
+LVLX_Data3
+	.byte $0	;        
+	.byte $F0	;    XXXX
+	.byte $40	;      X 
+	.byte $50	;    X X 
+	.byte $40	;      X 
+	.byte $70	;    XXX 
+	.byte $20	;     X  
+	.byte $A0	;     X X
+	.byte $20	;     X  
+	.byte $60	;     XX 
+	.byte $E0	;     XXX
+	.byte $B0	;    XX X
+	.byte $A0	;     X X
+	.byte $0	;        
+	.byte $D0	;    X XX
+	.byte $F0	;    XXXX
+	.byte $20	;     X  
+	.byte $B0	;    XX X
+	.byte $90	;    X  X
+	.byte $C0	;      XX
+	.byte $50	;    X X 
+	.byte $40	;      X 
+	.byte $60	;     XX 
+	.byte $20	;     X  
+	.byte $60	;     XX 
+	.byte $40	;      X 
+	.byte $D0	;    X XX
+	.byte $90	;    X  X
+	.byte $B0	;    XX X
+	.byte $B0	;    XX X
+	.byte $90	;    X  X
+	.byte $D0	;    X XX
+	.byte $10	;    X   
+	.byte $90	;    X  X
+	.byte $F0	;    XXXX
+	.byte $20	;     X  
+	.byte $A0	;     X X
+	.byte $80	;       X
+	.byte $F0	;    XXXX
+	.byte $30	;    XX  
+	.byte $A0	;     X X
+	.byte $A0	;     X X
+	.byte $A0	;     X X
+	.byte $B0	;    XX X
+	.byte $20	;     X  
+	.byte $A0	;     X X
+	.byte $A0	;     X X
+	.byte $80	;       X
+	.byte $F0	;    XXXX
+LVLX_Data4
+	.byte $0	;        
+	.byte $FF	;XXXXXXXX
+	.byte $DD	;X XXX XX
+	.byte $85	;X X    X
+	.byte $B5	;X X XX X
+	.byte $B5	;X X XX X
+	.byte $95	;X X X  X
+	.byte $D5	;X X X XX
+	.byte $95	;X X X  X
+	.byte $34	;  X XX  
+	.byte $F5	;X X XXXX
+	.byte $15	;X X X   
+	.byte $55	;X X X X 
+	.byte $54	;  X X X 
+	.byte $D5	;X X X XX
+	.byte $15	;X X X   
+	.byte $55	;X X X X 
+	.byte $55	;X X X X 
+	.byte $54	;  X X X 
+	.byte $56	; XX X X 
+	.byte $50	;    X X 
+	.byte $DF	;XXXXX XX
+	.byte $C0	;      XX
+	.byte $9F	;XXXXX  X
+	.byte $FC	;  XXXXXX
+	.byte $5	;X X     
+	.byte $75	;X X XXX 
+	.byte $45	;X X   X 
+	.byte $7C	;  XXXXX 
+	.byte $41	;X     X 
+	.byte $DF	;XXXXX XX
+	.byte $11	;X   X   
+	.byte $5	;X X     
+	.byte $FD	;X XXXXXX
+	.byte $5	;X X     
+	.byte $5D	;X XXX X 
+	.byte $C5	;X X   XX
+	.byte $14	;  X X   
+	.byte $76	; XX XXX 
+	.byte $43	;XX    X 
+	.byte $58	;   XX X 
+	.byte $7E	; XXXXXX 
+	.byte $22	; X   X  
+	.byte $EA	; X X XXX
+	.byte $A	; X X    
+	.byte $FB	;XX XXXXX
+	.byte $0	;        
+	.byte $55	;X X X X 
+	.byte $FF	;XXXXXXXX
+LVLX_Data5
+	.byte $0	;        
+	.byte $FF	;XXXXXXXX
+	.byte $8D	;X XX   X
+	.byte $A8	;   X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AB	;XX X X X
+	.byte $A8	;   X X X
+	.byte $AF	;XXXX X X
+	.byte $A8	;   X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $A2	; X   X X
+	.byte $BF	;XXXXXX X
+	.byte $12	; X  X   
+	.byte $7B	;XX XXXX 
+	.byte $2	; X      
+	.byte $DF	;XXXXX XX
+	.byte $D0	;    X XX
+	.byte $96	; XX X  X
+	.byte $DE	; XXXX XX
+	.byte $83	;XX     X
+	.byte $F8	;   XXXXX
+	.byte $8F	;XXXX   X
+	.byte $A8	;   X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $AA	; X X X X
+	.byte $A3	;XX   X X
+	.byte $BF	;XXXXXX X
+	.byte $81	;X      X
+	.byte $FD	;X XXXXXX
+	.byte $C1	;X     XX
+	.byte $9F	;XXXXX  X
+	.byte $B0	;    XX X
+	.byte $87	;XXX    X
+	.byte $FC	;  XXXXXX
+	.byte $80	;       X
+	.byte $FF	;XXXXXXXX
